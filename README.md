@@ -1,4 +1,4 @@
-Author: Moeed Masood
+<b> Author: Moeed Masood </b>
 
 This is the first assignment for Quarter 4 of PIAIC class AIC
 
